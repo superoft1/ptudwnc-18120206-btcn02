@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/superoft1/ptudwnc-18120206-btcn02/static/css/main.1a3889eb.chunk.css",
-    "main.js": "/superoft1/ptudwnc-18120206-btcn02/static/js/main.49e7abb7.chunk.js",
-    "main.js.map": "/superoft1/ptudwnc-18120206-btcn02/static/js/main.49e7abb7.chunk.js.map",
-    "runtime-main.js": "/superoft1/ptudwnc-18120206-btcn02/static/js/runtime-main.a6753cd9.js",
-    "runtime-main.js.map": "/superoft1/ptudwnc-18120206-btcn02/static/js/runtime-main.a6753cd9.js.map",
-    "static/js/2.3bf971bf.chunk.js": "/superoft1/ptudwnc-18120206-btcn02/static/js/2.3bf971bf.chunk.js",
-    "static/js/2.3bf971bf.chunk.js.map": "/superoft1/ptudwnc-18120206-btcn02/static/js/2.3bf971bf.chunk.js.map",
-    "static/js/3.4c49b531.chunk.js": "/superoft1/ptudwnc-18120206-btcn02/static/js/3.4c49b531.chunk.js",
-    "static/js/3.4c49b531.chunk.js.map": "/superoft1/ptudwnc-18120206-btcn02/static/js/3.4c49b531.chunk.js.map",
-    "index.html": "/superoft1/ptudwnc-18120206-btcn02/index.html",
-    "static/css/main.1a3889eb.chunk.css.map": "/superoft1/ptudwnc-18120206-btcn02/static/css/main.1a3889eb.chunk.css.map",
-    "static/js/2.3bf971bf.chunk.js.LICENSE.txt": "/superoft1/ptudwnc-18120206-btcn02/static/js/2.3bf971bf.chunk.js.LICENSE.txt"
+    "main.css": "/ptudwnc-18120206-btcn02/static/css/main.1a3889eb.chunk.css",
+    "main.js": "/ptudwnc-18120206-btcn02/static/js/main.49e7abb7.chunk.js",
+    "main.js.map": "/ptudwnc-18120206-btcn02/static/js/main.49e7abb7.chunk.js.map",
+    "runtime-main.js": "/ptudwnc-18120206-btcn02/static/js/runtime-main.458b5f35.js",
+    "runtime-main.js.map": "/ptudwnc-18120206-btcn02/static/js/runtime-main.458b5f35.js.map",
+    "static/js/2.3bf971bf.chunk.js": "/ptudwnc-18120206-btcn02/static/js/2.3bf971bf.chunk.js",
+    "static/js/2.3bf971bf.chunk.js.map": "/ptudwnc-18120206-btcn02/static/js/2.3bf971bf.chunk.js.map",
+    "static/js/3.4c49b531.chunk.js": "/ptudwnc-18120206-btcn02/static/js/3.4c49b531.chunk.js",
+    "static/js/3.4c49b531.chunk.js.map": "/ptudwnc-18120206-btcn02/static/js/3.4c49b531.chunk.js.map",
+    "index.html": "/ptudwnc-18120206-btcn02/index.html",
+    "static/css/main.1a3889eb.chunk.css.map": "/ptudwnc-18120206-btcn02/static/css/main.1a3889eb.chunk.css.map",
+    "static/js/2.3bf971bf.chunk.js.LICENSE.txt": "/ptudwnc-18120206-btcn02/static/js/2.3bf971bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6753cd9.js",
+    "static/js/runtime-main.458b5f35.js",
     "static/js/2.3bf971bf.chunk.js",
     "static/css/main.1a3889eb.chunk.css",
     "static/js/main.49e7abb7.chunk.js"
